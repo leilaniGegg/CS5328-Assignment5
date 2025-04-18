@@ -30,3 +30,10 @@ bin/
 
 # Ignore .gitkeep files in builds or artifacts
 *.gitkeep
+
+# Gradle build output
+/build/
+.gradle/
+
+# Gradle Wrapper cache (optional, can be ignored)
+gradle/

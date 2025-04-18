@@ -98,3 +98,10 @@ cities and introduced new products, this architectural style should be changed.
 To be practical, your software will require the drivers to have a smartphone and the users must have 
 access to either a smartphone or the mobile website. While drivers and users may use different types of 
 devices to view your app.
+
+
+## Running
+Run the following command in the project directory to run the tests:
+```
+gradle test
+```
